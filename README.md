@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samar Zeinah</h1>
 
-<h2 align="center">Front-End Developer | React </h2>
+<h2 align="center">Front-End Developer | React.JS </h2>
 <br>
 
   <p>
@@ -31,15 +31,15 @@
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass,cpp,c,cs,python,responsive,ci,api,git,github,netlify,vercel,notion,react,vite,hookform,framer,chartjs,bootstrap,tailwind,materialui&perline=7" style="height:113px;"/>
 </p>
-
+ <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?
+i=js,ts,html,css,sass,cpp,c,cs,python,responsive,ci,api,git,github,netlify,vercel,notion,react,vite,hookform,framer,chartjs,bootstrap,tailwind,materialui&perline=7" style="height:113px;"/>
+  </p>
 
 ### 🏆 GitHub Trophies
   <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarZeinah&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-  </p>
-  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarZeinah&layout=compact&langs_count=6&theme=highcontrast" height="140"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=SamarZeinah&theme=highcontrast" height="140"/>
+  <img src="https://streak-stats.demolab.com/?user=SamarZeinah&theme=highcontrast" height="150"/>
 </p>
 
 
