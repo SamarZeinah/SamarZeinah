@@ -29,7 +29,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass,cpp,c,cs,python,responsive,ci,api,git,github,netlify,vercel,notion,react,vite,hookform,framer,chartjs,bootstrap,tailwind,materialui&perline=7" style="height:150px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass,cpp,c,cs,python,responsive,ci,api,git,github,netlify,vercel,notion,react,vite,hookform,framer,chartjs,bootstrap,tailwind,materialui&perline=7" style="height:50px;"/>
 </p>
 
 
