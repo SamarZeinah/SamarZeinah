@@ -36,7 +36,7 @@
 
 ### 🏆 GitHub Trophies
   <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarZeinah&layout=compact&langs_count=6&theme=highcontrast" height="150"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarZeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
 </p>
 
 
