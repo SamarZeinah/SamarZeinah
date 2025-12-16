@@ -3,11 +3,6 @@
 <h2 align="center">Front-End Developer | React </h2>
 <br>
 
-  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=SamarZeinah&style=flat&color=3010A0" /> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=View%20my%20Social%20Media%20Accounts;Check%20my%20Popular%20repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
-  </p>
-
   <p>
     <a href="https://www.google.com.eg/search?q=SamarZeinah"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=SamarZeinah&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
