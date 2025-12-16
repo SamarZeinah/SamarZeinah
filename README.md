@@ -22,7 +22,7 @@
 </a> &nbsp;
     <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-   <a href="https://wa.me/201006690179">
+   <a href="https://wa.me/201006690179" target="_blank">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
   </p>
 
