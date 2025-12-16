@@ -1,66 +1,49 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi, I'm Samar Zeinah</h1>
 
-###
+<h2 align="center">Front-End Developer | React </h2>
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+  <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=SamarZeinah&style=flat&color=3010A0" /> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=View%20my%20Social%20Media%20Accounts;Check%20my%20Popular%20repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
 
-###
+  <p>
+    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
+  </p>
 
-<h1 align="center">hey there 👋</h1>
+  <p>
+    <a href="[https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view](https://drive.google.com/drive/folders/1OrL69-LdMD9eFwBo3SAuoub-dMKs0ypZ)">
+      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+    
+  </p>
 
-###
+  ### 📤 Connect & Competitive Programming
+  <p align="left">
+    <a href="mailto:Samarzeinah@gmail.com">
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+   <a href="https://wa.me/201006690179">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+  </p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🛠️ Top Technical Skills & Tools
 
-###
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass,cpp,c,cs,python,responsive,ci,api,git,github,netlify,vercel,notion,react,vite,hookform,framer,chartjs,bootstrap,tailwind,materialui&perline=7" style="height:113px;"/>
+</p>
 
-<p align="left">I'm Samar Elsayed Zeinah, a Front-End Developer (React) from Egypt.  <br><br>• I’m working as a Front-End Developer, building responsive and scalable web applications using   <br> React.js, TypeScript, and modern JavaScript (ES6+).  <br>• I'm currently learning advanced React patterns and improving my TypeScript skills.  <br>•In my free time, I enjoy exploring new web technologies, integrating APIs, and building small projects to practice my skills.</p>
 
-###
+### 🏆 GitHub Trophies
+  <p align="left">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=SamarZeinah&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
-<h3 align="left">🛠 Language and tools</h3>
+<br>
 
-###
+  <p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarZeinah&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+  </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
-
-###
-
-<h3 align="left">
-### 🔥 My Stats<br>![Samar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamarZeinah&show_icons=true&theme=radical)</h3>
-
-###
