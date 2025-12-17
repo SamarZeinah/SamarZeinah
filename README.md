@@ -19,12 +19,7 @@
   <p align="left">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarzeinah@gmail.com" target="_blank">
   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50"/>
-</a> 
-    <a href="mailto:samarzeinah@gmail.com">
-  <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50" alt="Gmail Logo"/>
-</a>
-
-    &nbsp;
+</a> &nbsp;
     <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
    <a href="https://wa.me/201006690179" target="_blank">
