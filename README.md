@@ -17,7 +17,7 @@
 
   ### 📤 Connect & Competitive Programming
   <p align="left">
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Samarzeinah@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarzeinah@gmail.com" target="_blank">
   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50"/>
 </a> &nbsp;
     <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
