@@ -51,7 +51,7 @@ I’m highly focused on writing clean, maintainable code and building applicatio
 ---
 ### 🏆 GitHub Trophies
   <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarZeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarzeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
 </p>
 
 
