@@ -85,8 +85,8 @@ I’m highly focused on writing clean, maintainable code and building applicatio
 </a> &nbsp;
 
   </p>
-  ---
   
+  ---
 ### 📫 Connect With Me
 
 <p align="center">
