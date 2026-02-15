@@ -17,9 +17,12 @@
 
   ### 📤 Connect & Competitive Programming
   <p align="left">
-   <a href="mailto:samarzeinah@gmail.com">
+   <!-- <a href="mailto:samarzeinah@gmail.com">
   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50" alt="Gmail Logo"/>
-</a> &nbsp;
+</a>
+    <a href="mailto:samarzeinah@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Gmail Logo"/>
+</a>&nbsp; -->
     <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
    <a href="https://wa.me/201006690179" target="_blank">
