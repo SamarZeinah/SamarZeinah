@@ -78,6 +78,7 @@ I’m highly focused on writing clean, maintainable code and building applicatio
 </p>
 
 ---
+### 📄 My CV
  <p>
     <a href="https://drive.google.com/drive/folders/1OrL69-LdMD9eFwBo3SAuoub-dMKs0ypZ">
   <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
@@ -85,7 +86,7 @@ I’m highly focused on writing clean, maintainable code and building applicatio
 
   </p>
   ---
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
