@@ -67,11 +67,12 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarzeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
 </p>
 ---
+
 ## 🏆 Featured Projects
 
 ### 🧠 Quiz Management System
 🔗 Live: https://lnkd.in/dYsBRMNA  
-💻 GitHub: https://lnkd.in/dgE6d5Ci  
+💻 GitHub: https://lnkd.in/dgE6d5Ci 
 
 - Full quiz system (Instructor & Student dashboards)  
 - Auth + RBAC + real-time results  
