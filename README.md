@@ -22,7 +22,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
 ---
 
-### 🛠️ Top Technical Skills & Tools
+## 🛠️ Top Technical Skills & Tools
 ### 🎨 Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 [📥 Download My CV](./CV/Samar_Zeinah_Frontend_react.pdf)
 
   ---
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samar-zeinah-56467a249/">
@@ -62,7 +62,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 </p>
 
 ---
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarzeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
 </p>
