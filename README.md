@@ -72,8 +72,8 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 ## 🏆 Featured Projects
 
 ### 🧠 Quiz Management System
-🔗 Live:https://quizvibe.netlify.app/#/login 
-💻 GitHub:https://github.com/SamarZeinah/Quiz-Management-App 
+🔗 Live: https://quizvibe.netlify.app/#/login 
+💻 GitHub: https://github.com/SamarZeinah/Quiz-Management-App 
 
 - Full quiz system (Instructor & Student dashboards)  
 - Auth + RBAC + real-time results  
