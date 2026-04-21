@@ -19,6 +19,7 @@ My expertise includes <strong>creating user-friendly interfaces</strong>, <stron
 I’m highly focused on writing <strong>clean, maintainable code</strong> and building applications that are <strong>efficient and scalable</strong>.
 
 🚀 <strong>Currently open to Front-End development opportunities</strong> — Remote or On-site.
+
 ---
 
 ### 🛠️ Top Technical Skills & Tools
