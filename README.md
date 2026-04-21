@@ -1,7 +1,7 @@
 <h1 align="center">Samar Elsayed Ahmed Zeinah</h1>
 
 <p align="center">
-  <strong>Front-End Developer</strong> | React.js | Responsive & Interactive Web Applications
+  <strong>Front-End Developer</strong> | React.js |Next.js | Responsive & Interactive Web Applications
 </p>
 
 <p align="center">
@@ -12,9 +12,10 @@
 
 ## 👩‍💻 About Me
 
-I’m a dedicated Front-End Developer with hands-on experience in building responsive and interactive web applications using React.js. My expertise covers creating user-friendly interfaces, collaborating in Agile environments, optimizing performance, and integrating with RESTful APIs.
-
-I’m highly focused on writing clean, maintainable code and building applications that are both efficient and scalable. Currently open to front-end development opportunities — remote or on-site.
+I’m a dedicated <strong>Front-End Developer</strong> with hands-on experience in building <strong>responsive and interactive web applications</strong> using <strong>React.js</strong> and <strong>Next.js</strong>. 
+My expertise includes <strong>creating user-friendly interfaces</strong>, <strong>collaborating in Agile environments</strong>, <strong>optimizing performance</strong>, and <strong>integrating RESTful APIs</strong>.
+I’m highly focused on writing <strong>clean, maintainable code</strong> and building applications that are <strong>efficient and scalable</strong>. 
+🚀 <strong>Currently open to Front-End development opportunities</strong> — Remote or On-site.
 
 ---
 
@@ -25,13 +26,9 @@ I’m highly focused on writing clean, maintainable code and building applicatio
 </p>
 
 ---
-### 📄 My CV
- <p>
-    <a href="https://drive.google.com/drive/folders/1OrL69-LdMD9eFwBo3SAuoub-dMKs0ypZ">
-  <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
-</a> &nbsp;
+## 📄 My CV
 
-  </p>
+[📥 Download My CV](./CV/Samar Zeinah _Frontend_react.pdf)
   
   ---
 ### 📫 Connect With Me
