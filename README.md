@@ -66,13 +66,14 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarzeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
 </p>
+
 ---
 
 ## 🏆 Featured Projects
 
 ### 🧠 Quiz Management System
-🔗 Live: https://lnkd.in/dYsBRMNA  
-💻 GitHub: https://lnkd.in/dgE6d5Ci 
+🔗 Live:https://quizvibe.netlify.app/#/login 
+💻 GitHub:https://github.com/SamarZeinah/Quiz-Management-App 
 
 - Full quiz system (Instructor & Student dashboards)  
 - Auth + RBAC + real-time results  
