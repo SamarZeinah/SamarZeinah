@@ -66,6 +66,54 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarzeinah&layout=compact&langs_count=6&theme=highcontrast" height="200"/> &nbsp;
 </p>
+---
+## 🏆 Featured Projects
 
+### 🧠 Quiz Management System
+🔗 Live: https://lnkd.in/dYsBRMNA  
+💻 GitHub: https://lnkd.in/dgE6d5Ci  
 
+- Full quiz system (Instructor & Student dashboards)  
+- Auth + RBAC + real-time results  
+- React + TypeScript + Redux Toolkit + Tailwind  
+
+---
+
+### 📊 Project Management System  
+🔗 Live: https://project-management-syst.netlify.app/  
+💻 GitHub: https://github.com/SamarZeinah/Project-Management-System  
+
+- Project system with auth, RBAC & CRUD  
+- Drag & drop + charts visualization  
+- React + TypeScript + Context API  
+
+---
+
+### 🏠 ArchiSpace – Digital Housing Platform  
+🔗 Live: https://home4u.gosoftcloud.com/  
+💻 GitHub: https://github.com/SamarZeinah/starter-Final-Project  
+
+- Housing platform (services, booking, management)  
+- AI-based layout & design ideas  
+- Focused on UI/UX experience  
+
+---
+
+### 🏨 Hotel Management App  
+🔗 Live: https://hotel-system-app.netlify.app/#/  
+💻 GitHub: https://github.com/SamarZeinah/Hotel-System  
+
+- Hotel booking system (admin & user)  
+- Auth + booking + offers  
+- React + Stripe + Chart.js  
+
+---
+
+### 🍔 Food Management App  
+🔗 Live: https://food-appg.netlify.app/  
+💻 GitHub: https://github.com/SamarZeinah/Food-App  
+
+- Recipe system with admin & user roles  
+- CRUD + filters + pagination  
+- React + JWT + Axios  
 
