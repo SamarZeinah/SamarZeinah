@@ -12,11 +12,13 @@
 
 ## 👩‍💻 About Me
 
-I’m a dedicated <strong>Front-End Developer</strong> with hands-on experience in building <strong>responsive and interactive web applications</strong> using <strong>React.js</strong> and <strong>Next.js</strong>. 
-My expertise includes <strong>creating user-friendly interfaces</strong>, <strong>collaborating in Agile environments</strong>, <strong>optimizing performance</strong>, and <strong>integrating RESTful APIs</strong>.
-I’m highly focused on writing <strong>clean, maintainable code</strong> and building applications that are <strong>efficient and scalable</strong>. 
-🚀 <strong>Currently open to Front-End development opportunities</strong> — Remote or On-site.
+I’m a dedicated <strong>Front-End Developer</strong> with hands-on experience in building <strong>responsive and interactive web applications</strong> using <strong>React.js</strong> and <strong>Next.js</strong>.
 
+My expertise includes <strong>creating user-friendly interfaces</strong>, <strong>collaborating in Agile environments</strong>, <strong>optimizing performance</strong>, and <strong>integrating RESTful APIs</strong>.
+
+I’m highly focused on writing <strong>clean, maintainable code</strong> and building applications that are <strong>efficient and scalable</strong>.
+
+🚀 <strong>Currently open to Front-End development opportunities</strong> — Remote or On-site.
 ---
 
 ### 🛠️ Top Technical Skills & Tools
