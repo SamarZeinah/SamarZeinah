@@ -79,7 +79,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 - Secure authentication & reset password flow  
 - Cart, wishlist & order management system  
 - Profile & address management  
-- Next.js + TypeScript + Tailwind CSS + Context API  
+- **Next.js** + TypeScript + Tailwind CSS + Context API  
 - Responsive modern UI with reusable components  
 
 ---
@@ -91,7 +91,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
 - Full quiz system (Instructor & Student dashboards)  
 - Auth + RBAC + real-time results  
-- React + TypeScript + Redux Toolkit + Tailwind  
+- **React** + TypeScript + Redux Toolkit + Tailwind  
 
 ---
 
@@ -101,7 +101,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
 - Project system with auth, RBAC & CRUD  
 - Drag & drop + charts visualization  
-- React + TypeScript + Context API  
+- **React** + TypeScript + Context API  
 
 ---
 
@@ -121,7 +121,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
 - Hotel booking system (admin & user)  
 - Auth + booking + offers  
-- React + Stripe + Chart.js  
+- **React** + Stripe + Chart.js  
 
 ---
 
@@ -131,5 +131,5 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
 - Recipe system with admin & user roles  
 - CRUD + filters + pagination  
-- React + JWT + Axios  
+- **React** + JWT + Axios  
 
