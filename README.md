@@ -71,6 +71,19 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
 ## 🏆 Featured Projects
 
+### 🛍️ E-Commerce Store  
+🔗 Live: https://shop-app-eg.netlify.app/  
+
+💻 GitHub:https://github.com/SamarZeinah/E-commerce 
+
+- Secure authentication & reset password flow  
+- Cart, wishlist & order management system  
+- Profile & address management  
+- Next.js + TypeScript + Tailwind CSS + Context API  
+- Responsive modern UI with reusable components  
+
+---
+
 ### 🧠 Quiz Management System
 🔗 Live: https://quizvibe.netlify.app/#/login 
 
