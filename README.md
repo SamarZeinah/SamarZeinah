@@ -44,7 +44,7 @@ I’m highly focused on writing <strong>clean, maintainable code</strong> and bu
 
   ---
 ## 📄 My CV
-[📥 Download My CV](./CV/SamarZeinah_Frontend_react.pdf)
+[📥 Download My CV](./CV/SamarZeinah_FrontendDeveloper.pdf)
 
   ---
 ## 📫 Connect With Me
